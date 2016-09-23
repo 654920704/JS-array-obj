@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+html,body{
+    height: 80%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.red{
+    color: black;
+}
+
+button{
+    border: 1px solid green;
+    width: 50px;
+    margin: 20px auto;
+    /*float: left;*/
+}
+.order{
+    width: 48%;
+    display: inline-block;
+
+}
+img{
+    vertical-align: middle;
+}
